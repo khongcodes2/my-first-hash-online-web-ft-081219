@@ -1,7 +1,6 @@
 def my_hash
   your_hash={"hi"=>"how u doin'"}
 
-  
 end
 
 
